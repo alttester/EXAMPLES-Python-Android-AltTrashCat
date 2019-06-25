@@ -1,0 +1,8 @@
+{
+    "pythonTestExplorer.testFramework": "pytest",
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true,
+    "python.pythonPath": "alttrashcat-env/bin/python",
+    "python.testing.autoTestDiscoverOnSaveEnabled": true
+}
