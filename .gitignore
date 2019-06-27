@@ -1,3 +1,4 @@
 .pytest_cache/
 alttrashcat-env/
 __pycache__
+test-report.html

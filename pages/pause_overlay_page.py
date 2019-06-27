@@ -1,5 +1,4 @@
 from pages.base_page import BasePage
-# from pages.main_menu_page import MainMenuPage
 
 class PauseOverlayPage(BasePage):
     def __init__(self, altdriver):
@@ -7,16 +6,22 @@ class PauseOverlayPage(BasePage):
 
     @property
     def resume_button(self):
-        return self.altdriver.find_element('Game/PauseMenu/Resume')
+        return self.altdriver.wait_for_element('Game/PauseMenu/Resume', timeout=2)
 
     @property
     def main_menu_button(self):
-        return self.altdriver.find_element('Game/PauseMenu/Exit')
+        return self.altdriver.wait_for_element('Game/PauseMenu/Exit', timeout=2)
 
     @property
     def title(self):
-        return self.altdriver.find_element('Game/PauseMenu/Text')
+        return self.altdriver.wait_for_element('Game/PauseMenu/Text', timeout=2)
 
     def is_displayed(self):
-        if resume_button and main_menu_button and title:
+        if self.resume_button and self.main_menu_button and self.title:
             return True
+
+    def press_resume(self):
+        self.resume_button.tap()
+
+    def press_main_menu(self):
+        self.main_menu_button.tap()

@@ -1,5 +1,4 @@
 from pages.base_page import BasePage
-from pages.game_play_page import GamePlayPage
 
 class MainMenuPage(BasePage):
 
@@ -11,31 +10,31 @@ class MainMenuPage(BasePage):
 
     @property
     def store_button(self):
-        return self.altdriver.find_element('StoreButton')
+        return self.altdriver.wait_for_element('UICamera/Loadout/StoreButton', timeout=2)
     
     @property
     def leader_board_button(self):
-        return self.altdriver.find_element('OpenLeaderboard')
+        return self.altdriver.wait_for_element('UICamera/Loadout/OpenLeaderboard', timeout=2)
 
     @property
     def settings_button(self):
-        return self.altdriver.find_element('SettingButton')
+        return self.altdriver.wait_for_element('UICamera/Loadout/SettingButton', timeout=2)
 
     @property
     def mission_button(self):
-        return self.altdriver.find_element('MissionButton')
+        return self.altdriver.wait_for_element('UICamera/Loadout/MissionButton', timeout=2)
 
     @property
-    def run_button(self):
-        return self.altdriver.find_element('UICamera/Loadout/StartButton')
+    def run_button(self):   
+        return self.altdriver.wait_for_element('UICamera/Loadout/StartButton', timeout=2)
 
     @property
     def character_name(self):
-        return self.altdriver.find_element('CharName')
+        return self.altdriver.wait_for_element('CharName', timeout=2)
 
     @property
     def theme_name(self):
-        return self.altdriver.find_element('ThemeName')
+        return self.altdriver.wait_for_element('UICamera/Loadout/ThemeZone', timeout=2)
 
     def is_displayed(self):
         if self.store_button and self.leader_board_button and self.settings_button \
@@ -44,4 +43,3 @@ class MainMenuPage(BasePage):
 
     def press_run(self):
         self.run_button.tap()
-        return GamePlayPage(self.altdriver)

@@ -1,5 +1,4 @@
 from pages.base_page import BasePage
-from pages.main_menu_page import MainMenuPage
 
 
 class StartPage(BasePage):
@@ -31,7 +30,6 @@ class StartPage(BasePage):
 
     def press_start(self):
         self.start_button.tap()
-        return MainMenuPage(self.altdriver)
 
     def get_start_button_text(self):
         return self.start_text.get_text()
