@@ -14,7 +14,7 @@ or
 `./start_tests_Windows.sh`
 
 
-This script was tested on MacOS and it will:
+This script will:
 - try to uninstall the apk and reinstall it
 - try to create a python virtual env and install the dependencies
 - run the tests
