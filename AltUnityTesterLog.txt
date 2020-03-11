@@ -1,0 +1,884 @@
+
+03/05/2020 16:37:35: response received: 1.5.3
+
+03/05/2020 16:37:35: response received: Ok
+
+03/05/2020 16:37:35: response received: Ok
+Scene Loaded
+03/05/2020 16:37:36: response received: Scene Loaded
+
+03/05/2020 16:37:37: response received: {"name":"StartButton","id":6816,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":7204,"parentId":7954,"transformId":8072}
+
+03/05/2020 16:37:37: response received: {"name":"StartButton","id":6816,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":7204,"parentId":7954,"transformId":8072}
+
+03/05/2020 16:37:37: response received: error:notFound
+
+03/05/2020 16:37:37: response received: Ok
+Scene Loaded
+03/05/2020 16:37:37: response received: Scene Loaded
+
+03/05/2020 16:37:37: response received: Ok
+Scene Loaded
+03/05/2020 16:37:37: response received: Scene Loaded
+
+03/05/2020 16:37:37: response received: {"name":"StartButton","id":17560,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":17948,"parentId":18698,"transformId":18816}
+
+03/05/2020 16:37:38: response received: {"name":"StartButton","id":17560,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":17948,"parentId":18698,"transformId":18816}
+
+03/05/2020 16:37:38: response received: error:notFound
+
+03/05/2020 16:37:38: response received: error:notFound
+
+03/05/2020 16:37:39: response received: error:notFound
+
+03/05/2020 16:37:39: response received: error:notFound
+
+03/05/2020 16:37:40: response received: error:notFound
+
+03/05/2020 16:37:40: response received: Ok
+Scene Loaded
+03/05/2020 16:37:40: response received: Scene Loaded
+
+03/05/2020 16:37:41: response received: Ok
+Scene Loaded
+03/05/2020 16:37:41: response received: Scene Loaded
+
+03/05/2020 16:37:41: response received: {"name":"StartButton","id":28304,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":28692,"parentId":29442,"transformId":29560}
+
+03/05/2020 16:37:41: response received: {"name":"StartButton","id":28304,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":28692,"parentId":29442,"transformId":29560}
+
+03/05/2020 16:37:41: response received: error:notFound
+
+03/05/2020 16:37:41: response received: error:notFound
+
+03/05/2020 16:37:42: response received: error:notFound
+
+03/05/2020 16:37:43: response received: error:notFound
+
+03/05/2020 16:37:43: response received: error:notFound
+
+03/05/2020 16:37:44: response received: Ok
+Scene Loaded
+03/05/2020 16:37:44: response received: Scene Loaded
+
+03/05/2020 16:37:44: response received: Ok
+Scene Loaded
+03/05/2020 16:37:44: response received: Scene Loaded
+
+03/05/2020 16:37:44: response received: {"name":"StartButton","id":39048,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":39436,"parentId":40186,"transformId":40304}
+
+03/05/2020 16:37:44: response received: {"name":"StartButton","id":39048,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":39436,"parentId":40186,"transformId":40304}
+
+03/05/2020 16:37:44: response received: error:notFound
+
+03/05/2020 16:37:45: response received: error:notFound
+
+03/05/2020 16:37:45: response received: error:notFound
+
+03/05/2020 16:37:46: response received: error:notFound
+
+03/05/2020 16:37:47: response received: error:notFound
+
+03/05/2020 16:37:47: response received: Ok
+Scene Loaded
+03/05/2020 16:37:47: response received: Scene Loaded
+
+03/05/2020 16:37:47: response received: Ok
+Scene Loaded
+03/05/2020 16:37:48: response received: Scene Loaded
+
+03/05/2020 16:37:48: response received: {"name":"StartButton","id":49792,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":50180,"parentId":50930,"transformId":51048}
+
+03/05/2020 16:37:48: response received: {"name":"StartButton","id":49792,"x":542,"y":475,"z":0,"mobileY":1745,"type":"","enabled":true,"worldX":541.7344,"worldY":475.21875,"worldZ":0.0,"idCamera":50180,"parentId":50930,"transformId":51048}
+
+03/05/2020 16:37:48: response received: error:notFound
+
+03/05/2020 16:37:48: response received: error:notFound
+
+03/05/2020 16:37:49: response received: error:notFound
+
+03/05/2020 16:37:49: response received: error:notFound
+
+03/05/2020 16:37:50: response received: error:notFound
+
+03/05/2020 16:37:51: response received: error:notFound
+
+03/05/2020 16:37:51: response received: error:notFound
+
+03/05/2020 16:37:52: response received: error:notFound
+
+03/05/2020 16:37:52: response received: error:notFound
+
+03/05/2020 16:37:53: response received: error:notFound
+
+03/05/2020 16:37:53: response received: error:notFound
+
+03/05/2020 16:37:54: response received: error:notFound
+
+03/11/2020 10:21:28: response received: 1.5.3
+
+03/11/2020 10:21:28: response received: Ok
+
+03/11/2020 10:21:28: response received: Ok
+Scene Loaded
+03/11/2020 10:21:30: response received: Scene Loaded
+
+03/11/2020 10:21:30: response received: {"name":"StartButton","id":6816,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":7204,"parentId":7954,"transformId":8072}
+
+03/11/2020 10:21:31: response received: {"name":"StartButton","id":6816,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":7204,"parentId":7954,"transformId":8072}
+
+03/11/2020 10:21:31: response received: error:notFound
+
+03/11/2020 10:21:31: response received: Ok
+Scene Loaded
+03/11/2020 10:21:31: response received: Scene Loaded
+
+03/11/2020 10:21:31: response received: Ok
+Scene Loaded
+03/11/2020 10:21:31: response received: Scene Loaded
+
+03/11/2020 10:21:31: response received: {"name":"StartButton","id":17560,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":17948,"parentId":18698,"transformId":18816}
+
+03/11/2020 10:21:31: response received: {"name":"StartButton","id":17560,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":17948,"parentId":18698,"transformId":18816}
+
+03/11/2020 10:21:31: response received: error:notFound
+
+03/11/2020 10:21:32: response received: error:notFound
+
+03/11/2020 10:21:33: response received: error:notFound
+
+03/11/2020 10:21:33: response received: error:notFound
+
+03/11/2020 10:21:34: response received: error:notFound
+
+03/11/2020 10:21:34: response received: Ok
+Scene Loaded
+03/11/2020 10:21:34: response received: Scene Loaded
+
+03/11/2020 10:21:35: response received: Ok
+Scene Loaded
+03/11/2020 10:21:35: response received: Scene Loaded
+
+03/11/2020 10:21:35: response received: {"name":"StartButton","id":28304,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":28692,"parentId":29442,"transformId":29560}
+
+03/11/2020 10:21:35: response received: {"name":"StartButton","id":28304,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":28692,"parentId":29442,"transformId":29560}
+
+03/11/2020 10:21:35: response received: error:notFound
+
+03/11/2020 10:21:36: response received: error:notFound
+
+03/11/2020 10:21:36: response received: error:notFound
+
+03/11/2020 10:21:37: response received: error:notFound
+
+03/11/2020 10:21:37: response received: error:notFound
+
+03/11/2020 10:21:38: response received: Ok
+Scene Loaded
+03/11/2020 10:21:38: response received: Scene Loaded
+
+03/11/2020 10:21:38: response received: Ok
+Scene Loaded
+03/11/2020 10:21:39: response received: Scene Loaded
+
+03/11/2020 10:21:39: response received: {"name":"StartButton","id":39048,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":39436,"parentId":40186,"transformId":40304}
+
+03/11/2020 10:21:39: response received: {"name":"StartButton","id":39048,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":39436,"parentId":40186,"transformId":40304}
+
+03/11/2020 10:21:39: response received: error:notFound
+
+03/11/2020 10:21:39: response received: error:notFound
+
+03/11/2020 10:21:40: response received: error:notFound
+
+03/11/2020 10:21:41: response received: error:notFound
+
+03/11/2020 10:21:41: response received: error:notFound
+
+03/11/2020 10:21:42: response received: Ok
+Scene Loaded
+03/11/2020 10:21:42: response received: Scene Loaded
+
+03/11/2020 10:21:42: response received: Ok
+Scene Loaded
+03/11/2020 10:21:42: response received: Scene Loaded
+
+03/11/2020 10:21:43: response received: {"name":"StartButton","id":49792,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":50180,"parentId":50930,"transformId":51048}
+
+03/11/2020 10:21:43: response received: {"name":"StartButton","id":49792,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":50180,"parentId":50930,"transformId":51048}
+
+03/11/2020 10:21:43: response received: error:notFound
+
+03/11/2020 10:21:43: response received: error:notFound
+
+03/11/2020 10:21:44: response received: error:notFound
+
+03/11/2020 10:21:44: response received: error:notFound
+
+03/11/2020 10:21:45: response received: error:notFound
+
+03/11/2020 10:21:45: response received: error:notFound
+
+03/11/2020 10:21:46: response received: error:notFound
+
+03/11/2020 10:21:47: response received: error:notFound
+
+03/11/2020 10:21:47: response received: error:notFound
+
+03/11/2020 10:21:48: response received: error:notFound
+
+03/11/2020 10:21:48: response received: error:notFound
+
+03/11/2020 10:21:49: response received: error:notFound
+
+03/11/2020 10:21:49: response received: error:notFound
+
+03/11/2020 10:21:50: response received: error:notFound
+
+03/11/2020 10:21:51: response received: error:notFound
+
+03/11/2020 10:21:51: response received: error:notFound
+
+03/11/2020 10:21:52: response received: error:notFound
+
+03/11/2020 10:21:52: response received: error:notFound
+
+03/11/2020 10:21:53: response received: error:notFound
+
+03/11/2020 10:21:53: response received: error:notFound
+
+03/11/2020 10:21:54: response received: error:notFound
+
+03/11/2020 10:21:55: response received: error:notFound
+
+03/11/2020 10:21:55: response received: error:notFound
+
+03/11/2020 10:21:56: response received: error:notFound
+
+03/11/2020 10:21:56: response received: error:notFound
+
+03/11/2020 10:21:57: response received: error:notFound
+
+03/11/2020 10:21:57: response received: error:notFound
+
+03/11/2020 10:21:58: response received: error:notFound
+
+03/11/2020 10:21:58: response received: error:notFound
+
+03/11/2020 10:21:59: response received: error:notFound
+
+03/11/2020 10:22:00: response received: error:notFound
+
+03/11/2020 10:22:00: response received: error:notFound
+
+03/11/2020 10:22:01: response received: error:notFound
+
+03/11/2020 10:22:01: response received: error:notFound
+
+03/11/2020 10:22:02: response received: error:notFound
+
+03/11/2020 10:22:02: response received: error:notFound
+
+03/11/2020 10:22:03: response received: error:notFound
+
+03/11/2020 10:22:04: response received: error:notFound
+
+03/11/2020 10:22:04: response received: error:notFound
+
+03/11/2020 10:22:05: response received: error:notFound
+
+03/11/2020 10:22:05: response received: error:notFound
+
+03/11/2020 10:22:06: response received: error:notFound
+
+03/11/2020 10:22:06: response received: error:notFound
+
+03/11/2020 10:22:07: response received: error:notFound
+
+03/11/2020 10:22:08: response received: error:notFound
+
+03/11/2020 10:22:08: response received: error:notFound
+
+03/11/2020 10:22:09: response received: error:notFound
+
+03/11/2020 10:22:09: response received: error:notFound
+
+03/11/2020 10:22:10: response received: error:notFound
+
+03/11/2020 10:22:10: response received: error:notFound
+
+03/11/2020 10:22:11: response received: error:notFound
+
+03/11/2020 10:22:11: response received: error:notFound
+
+03/11/2020 10:22:12: response received: error:notFound
+
+03/11/2020 10:22:13: response received: error:notFound
+
+03/11/2020 10:22:13: response received: error:notFound
+
+03/11/2020 10:22:14: response received: Ok
+Scene Loaded
+03/11/2020 10:22:14: response received: Scene Loaded
+
+03/11/2020 10:22:15: response received: 1.5.3
+
+03/11/2020 10:22:15: response received: Ok
+
+03/11/2020 10:22:15: response received: Ok
+Scene Loaded
+03/11/2020 10:22:15: response received: Scene Loaded
+
+03/11/2020 10:22:16: response received: {"name":"StoreButton","id":60446,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61706}
+
+03/11/2020 10:22:16: response received: {"name":"OpenLeaderboard","id":60550,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61804}
+
+03/11/2020 10:22:16: response received: {"name":"SettingButton","id":60462,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61722}
+
+03/11/2020 10:22:16: response received: {"name":"MissionButton","id":60304,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61572}
+
+03/11/2020 10:22:16: response received: {"name":"StartButton","id":60536,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61792}
+
+03/11/2020 10:22:16: response received: {"name":"CharName","id":60330,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":60924,"parentId":61854,"transformId":61598}
+
+03/11/2020 10:22:16: response received: {"name":"ThemeZone","id":60620,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61872}
+
+03/11/2020 10:22:17: response received: 1.5.3
+
+03/11/2020 10:22:17: response received: Ok
+
+03/11/2020 10:22:17: response received: Ok
+Scene Loaded
+03/11/2020 10:22:17: response received: Scene Loaded
+
+03/11/2020 10:22:17: response received: {"name":"StartButton","id":64558,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":64990,"parentId":65328,"transformId":65330}
+
+03/11/2020 10:22:18: response received: {"name":"StartButton","id":64558,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":64990,"parentId":65328,"transformId":65330}
+
+03/11/2020 10:22:18: response received: {"name":"StoreButton","id":65608,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66868}
+
+03/11/2020 10:22:18: response received: {"name":"OpenLeaderboard","id":65712,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66966}
+
+03/11/2020 10:22:18: response received: {"name":"SettingButton","id":65624,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66884}
+
+03/11/2020 10:22:18: response received: {"name":"MissionButton","id":65466,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66734}
+
+03/11/2020 10:22:18: response received: {"name":"StartButton","id":65698,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66954}
+
+03/11/2020 10:22:18: response received: {"name":"CharName","id":65492,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":66086,"parentId":67016,"transformId":66760}
+
+03/11/2020 10:22:18: response received: {"name":"ThemeZone","id":65782,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":67034}
+
+03/11/2020 10:22:18: response received: Ok
+Scene Loaded
+03/11/2020 10:22:18: response received: Scene Loaded
+
+03/11/2020 10:22:18: response received: {"name":"StartButton","id":69720,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":70152,"parentId":70490,"transformId":70492}
+
+03/11/2020 10:22:19: response received: {"name":"StartText","id":69724,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":70152,"parentId":70492,"transformId":70494}
+
+03/11/2020 10:22:19: response received: {"name":"LogoImage","id":69354,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":70152,"parentId":70490,"transformId":70488}
+
+03/11/2020 10:22:19: response received: {"name":"UnityURLButton","id":69352,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":70152,"parentId":70490,"transformId":70486}
+
+03/11/2020 10:23:39: response received: 1.5.3
+
+03/11/2020 10:23:39: response received: Ok
+
+03/11/2020 10:23:39: response received: Ok
+Scene Loaded
+03/11/2020 10:23:41: response received: Scene Loaded
+
+03/11/2020 10:23:42: response received: {"name":"StartButton","id":6816,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":7204,"parentId":7954,"transformId":8072}
+
+03/11/2020 10:23:42: response received: {"name":"StartButton","id":6816,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":7204,"parentId":7954,"transformId":8072}
+
+03/11/2020 10:23:42: response received: error:notFound
+
+03/11/2020 10:23:42: response received: Ok
+Scene Loaded
+03/11/2020 10:23:42: response received: Scene Loaded
+
+03/11/2020 10:23:42: response received: Ok
+Scene Loaded
+03/11/2020 10:23:43: response received: Scene Loaded
+
+03/11/2020 10:23:43: response received: {"name":"StartButton","id":17560,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":17948,"parentId":18698,"transformId":18816}
+
+03/11/2020 10:23:43: response received: {"name":"StartButton","id":17560,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":17948,"parentId":18698,"transformId":18816}
+
+03/11/2020 10:23:43: response received: error:notFound
+
+03/11/2020 10:23:43: response received: error:notFound
+
+03/11/2020 10:23:44: response received: error:notFound
+
+03/11/2020 10:23:45: response received: error:notFound
+
+03/11/2020 10:23:45: response received: error:notFound
+
+03/11/2020 10:23:46: response received: Ok
+Scene Loaded
+03/11/2020 10:23:46: response received: Scene Loaded
+
+03/11/2020 10:23:46: response received: Ok
+Scene Loaded
+03/11/2020 10:23:46: response received: Scene Loaded
+
+03/11/2020 10:23:47: response received: {"name":"StartButton","id":28304,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":28692,"parentId":29442,"transformId":29560}
+
+03/11/2020 10:23:47: response received: {"name":"StartButton","id":28304,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":28692,"parentId":29442,"transformId":29560}
+
+03/11/2020 10:23:47: response received: error:notFound
+
+03/11/2020 10:23:47: response received: error:notFound
+
+03/11/2020 10:23:48: response received: error:notFound
+
+03/11/2020 10:23:48: response received: error:notFound
+
+03/11/2020 10:23:49: response received: error:notFound
+
+03/11/2020 10:23:49: response received: Ok
+Scene Loaded
+03/11/2020 10:23:50: response received: Scene Loaded
+
+03/11/2020 10:23:50: response received: Ok
+Scene Loaded
+03/11/2020 10:23:50: response received: Scene Loaded
+
+03/11/2020 10:23:50: response received: {"name":"StartButton","id":39048,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":39436,"parentId":40186,"transformId":40304}
+
+03/11/2020 10:23:50: response received: {"name":"StartButton","id":39048,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":39436,"parentId":40186,"transformId":40304}
+
+03/11/2020 10:23:50: response received: error:notFound
+
+03/11/2020 10:23:51: response received: error:notFound
+
+03/11/2020 10:23:51: response received: error:notFound
+
+03/11/2020 10:23:52: response received: error:notFound
+
+03/11/2020 10:23:53: response received: error:notFound
+
+03/11/2020 10:23:53: response received: Ok
+Scene Loaded
+03/11/2020 10:23:53: response received: Scene Loaded
+
+03/11/2020 10:23:54: response received: Ok
+Scene Loaded
+03/11/2020 10:23:54: response received: Scene Loaded
+
+03/11/2020 10:23:54: response received: {"name":"StartButton","id":49792,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":50180,"parentId":50930,"transformId":51048}
+
+03/11/2020 10:23:54: response received: {"name":"StartButton","id":49792,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":50180,"parentId":50930,"transformId":51048}
+
+03/11/2020 10:23:54: response received: error:notFound
+
+03/11/2020 10:23:55: response received: error:notFound
+
+03/11/2020 10:23:55: response received: error:notFound
+
+03/11/2020 10:23:56: response received: error:notFound
+
+03/11/2020 10:23:56: response received: error:notFound
+
+03/11/2020 10:23:57: response received: error:notFound
+
+03/11/2020 10:23:57: response received: error:notFound
+
+03/11/2020 10:23:58: response received: error:notFound
+
+03/11/2020 10:23:59: response received: error:notFound
+
+03/11/2020 10:23:59: response received: error:notFound
+
+03/11/2020 10:24:00: response received: error:notFound
+
+03/11/2020 10:24:00: response received: error:notFound
+
+03/11/2020 10:24:01: response received: error:notFound
+
+03/11/2020 10:24:01: response received: error:notFound
+
+03/11/2020 10:24:02: response received: error:notFound
+
+03/11/2020 10:24:02: response received: error:notFound
+
+03/11/2020 10:24:03: response received: error:notFound
+
+03/11/2020 10:24:04: response received: error:notFound
+
+03/11/2020 10:24:04: response received: error:notFound
+
+03/11/2020 10:24:05: response received: error:notFound
+
+03/11/2020 10:24:05: response received: error:notFound
+
+03/11/2020 10:24:06: response received: error:notFound
+
+03/11/2020 10:24:06: response received: error:notFound
+
+03/11/2020 10:24:07: response received: error:notFound
+
+03/11/2020 10:24:08: response received: error:notFound
+
+03/11/2020 10:24:08: response received: error:notFound
+
+03/11/2020 10:24:09: response received: error:notFound
+
+03/11/2020 10:24:09: response received: error:notFound
+
+03/11/2020 10:24:10: response received: error:notFound
+
+03/11/2020 10:24:10: response received: error:notFound
+
+03/11/2020 10:24:11: response received: error:notFound
+
+03/11/2020 10:24:11: response received: error:notFound
+
+03/11/2020 10:24:12: response received: error:notFound
+
+03/11/2020 10:24:13: response received: error:notFound
+
+03/11/2020 10:24:13: response received: error:notFound
+
+03/11/2020 10:24:14: response received: error:notFound
+
+03/11/2020 10:24:14: response received: error:notFound
+
+03/11/2020 10:24:15: response received: error:notFound
+
+03/11/2020 10:24:15: response received: error:notFound
+
+03/11/2020 10:24:16: response received: error:notFound
+
+03/11/2020 10:24:17: response received: error:notFound
+
+03/11/2020 10:24:17: response received: error:notFound
+
+03/11/2020 10:24:18: response received: error:notFound
+
+03/11/2020 10:24:18: response received: error:notFound
+
+03/11/2020 10:24:19: response received: error:notFound
+
+03/11/2020 10:24:19: response received: error:notFound
+
+03/11/2020 10:24:20: response received: error:notFound
+
+03/11/2020 10:24:21: response received: error:notFound
+
+03/11/2020 10:24:21: response received: error:notFound
+
+03/11/2020 10:24:22: response received: error:notFound
+
+03/11/2020 10:24:22: response received: error:notFound
+
+03/11/2020 10:24:23: response received: error:notFound
+
+03/11/2020 10:24:23: response received: error:notFound
+
+03/11/2020 10:24:24: response received: error:notFound
+
+03/11/2020 10:24:24: response received: error:notFound
+
+03/11/2020 10:24:25: response received: Ok
+Scene Loaded
+03/11/2020 10:24:25: response received: Scene Loaded
+
+03/11/2020 10:24:26: response received: 1.5.3
+
+03/11/2020 10:24:26: response received: Ok
+
+03/11/2020 10:24:26: response received: Ok
+Scene Loaded
+03/11/2020 10:24:27: response received: Scene Loaded
+
+03/11/2020 10:24:27: response received: {"name":"StoreButton","id":60446,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61706}
+
+03/11/2020 10:24:27: response received: {"name":"OpenLeaderboard","id":60550,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61804}
+
+03/11/2020 10:24:27: response received: {"name":"SettingButton","id":60462,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61722}
+
+03/11/2020 10:24:27: response received: {"name":"MissionButton","id":60304,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61572}
+
+03/11/2020 10:24:27: response received: {"name":"StartButton","id":60536,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61792}
+
+03/11/2020 10:24:27: response received: {"name":"CharName","id":60330,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":60924,"parentId":61854,"transformId":61598}
+
+03/11/2020 10:24:27: response received: {"name":"ThemeZone","id":60620,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":60924,"parentId":61674,"transformId":61872}
+
+03/11/2020 10:24:28: response received: 1.5.3
+
+03/11/2020 10:24:28: response received: Ok
+
+03/11/2020 10:24:28: response received: Ok
+Scene Loaded
+03/11/2020 10:24:28: response received: Scene Loaded
+
+03/11/2020 10:24:29: response received: {"name":"StartButton","id":64558,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":64990,"parentId":65328,"transformId":65330}
+
+03/11/2020 10:24:29: response received: {"name":"StartButton","id":64558,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":64990,"parentId":65328,"transformId":65330}
+
+03/11/2020 10:24:29: response received: {"name":"StoreButton","id":65608,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66868}
+
+03/11/2020 10:24:29: response received: {"name":"OpenLeaderboard","id":65712,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66966}
+
+03/11/2020 10:24:29: response received: {"name":"SettingButton","id":65624,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66884}
+
+03/11/2020 10:24:29: response received: {"name":"MissionButton","id":65466,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66734}
+
+03/11/2020 10:24:29: response received: {"name":"StartButton","id":65698,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":66954}
+
+03/11/2020 10:24:29: response received: {"name":"CharName","id":65492,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":66086,"parentId":67016,"transformId":66760}
+
+03/11/2020 10:24:29: response received: {"name":"ThemeZone","id":65782,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":66086,"parentId":66836,"transformId":67034}
+
+03/11/2020 10:24:29: response received: Ok
+Scene Loaded
+03/11/2020 10:24:30: response received: Scene Loaded
+
+03/11/2020 10:24:30: response received: {"name":"StartButton","id":69720,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":70152,"parentId":70490,"transformId":70492}
+
+03/11/2020 10:24:30: response received: {"name":"StartText","id":69724,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":70152,"parentId":70492,"transformId":70494}
+
+03/11/2020 10:24:30: response received: {"name":"LogoImage","id":69354,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":70152,"parentId":70490,"transformId":70488}
+
+03/11/2020 10:24:30: response received: {"name":"UnityURLButton","id":69352,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":70152,"parentId":70490,"transformId":70486}
+
+03/11/2020 10:28:27: response received: 1.5.3
+
+03/11/2020 10:28:27: response received: Ok
+
+03/11/2020 10:28:27: response received: Ok
+Scene Loaded
+03/11/2020 10:28:29: response received: Scene Loaded
+
+03/11/2020 10:28:29: response received: {"name":"StartButton","id":14404,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":14792,"parentId":15542,"transformId":15660}
+
+03/11/2020 10:28:30: response received: {"name":"StartButton","id":14404,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":14792,"parentId":15542,"transformId":15660}
+
+03/11/2020 10:28:30: response received: {"name":"PlayerPivot","id":14554,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":14792,"parentId":0,"transformId":14758}
+
+03/11/2020 10:28:30: response received: [{"name":"ObstacleWheelyBin(Clone)","id":-7730,"x":521,"y":1365,"z":130,"mobileY":555,"type":"","enabled":true,"worldX":-1.5,"worldY":0.0,"worldZ":130.375,"idCamera":14792,"parentId":-7686,"transformId":-7732},{"name":"ObstacleWheelyBin(Clone)","id":-7692,"x":560,"y":1365,"z":130,"mobileY":555,"type":"","enabled":true,"worldX":1.5,"worldY":0.0,"worldZ":130.375,"idCamera":14792,"parentId":-7686,"transformId":-7694},{"name":"ObstacleBin(Clone)","id":-7548,"x":540,"y":1356,"z":112,"mobileY":564,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":112.395,"idCamera":14792,"parentId":-7542,"transformId":-7550},{"name":"ObstacleBin(Clone)","id":-7316,"x":509,"y":1336,"z":80,"mobileY":584,"type":"","enabled":true,"worldX":-1.5,"worldY":0.0,"worldZ":78.6674957,"idCamera":14792,"parentId":-7272,"transformId":-7318},{"name":"ObstacleWheelyBin(Clone)","id":-7278,"x":513,"y":1347,"z":89,"mobileY":573,"type":"","enabled":true,"worldX":-1.5,"worldY":0.0,"worldZ":88.114,"idCamera":14792,"parentId":-7272,"transformId":-7280},{"name":"ObstacleRoadworksCone(Clone)","id":-6998,"x":589,"y":1286,"z":52,"mobileY":634,"type":"","enabled":true,"worldX":1.5,"worldY":0.0,"worldZ":49.445,"idCamera":14792,"parentId":-6970,"transformId":-7000},{"name":"ObstacleRoadworksCone(Clone)","id":-6976,"x":540,"y":1286,"z":52,"mobileY":634,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":49.445,"idCamera":14792,"parentId":-6970,"transformId":-6978}]
+
+03/11/2020 10:28:30: response received: error:unknownError;System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <319b5411003b47fbaceecace494b6f79>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <319b5411003b47fbaceecace494b6f79>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <319b5411003b47fbaceecace494b6f79>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <319b5411003b47fbaceecace494b6f79>:0 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityFindObjectsOldWayCommand.CheckPath (UnityEngine.GameObject obj, System.String[] pathList, System.Int32 pathListStep, System.Boolean enabled) [0x000fe] in D:\AltUnity\alttrashcat-tests-python\AltTrashCat Unity iOS\Assets\AltUnityTester\AltUnityServer\Commands\OldFindObject\AltUnityFindObjectsOldWayCommand.cs:85 
+  at Assets.AltUnityTester.AltUnityServer.AltUnityFindObjectsOldWayCommand.FindObjectInScene (System.String objectName, System.Boolean enabled) [0x00037] in D:\AltUnity\alttrashcat-tests-python\AltTrashCat Unity iOS\Assets\AltUnityTester\AltUnityServer\Commands\OldFindObject\AltUnityFindObjectsOldWayCommand.cs:14 
+  at Assets.AltUnityTester.AltUnityServer.Commands.AltUnityFindObjectByNameCommand.Execute () [0x0005f] in D:\AltUnity\alttrashcat-tests-python\AltTrashCat Unity iOS\Assets\AltUnityTester\AltUnityServer\Commands\OldFindObject\AltUnityFindObjectByNameCommand.cs:23 
+  at AltUnityCommand+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\alttrashcat-tests-python\AltTrashCat Unity iOS\Assets\AltUnityTester\AltUnityServer\Commands\AltUnityCommand.cs:10 
+
+03/11/2020 10:28:30: response received: Ok
+Scene Loaded
+03/11/2020 10:28:31: response received: Scene Loaded
+
+03/11/2020 10:28:31: response received: Ok
+Scene Loaded
+03/11/2020 10:28:31: response received: Scene Loaded
+
+03/11/2020 10:28:31: response received: {"name":"StartButton","id":25148,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":25536,"parentId":26286,"transformId":26404}
+
+03/11/2020 10:28:31: response received: {"name":"StartButton","id":25148,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":25536,"parentId":26286,"transformId":26404}
+
+03/11/2020 10:28:31: response received: {"name":"pauseButton","id":25030,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":25536,"parentId":26308,"transformId":26288}
+
+03/11/2020 10:28:31: response received: {"name":"pauseButton","id":25030,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":false,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":25536,"parentId":26308,"transformId":26288}
+
+03/11/2020 10:28:32: response received: {"name":"Resume","id":24976,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":25536,"parentId":26468,"transformId":26238}
+
+03/11/2020 10:28:32: response received: {"name":"Exit","id":25132,"x":540,"y":881,"z":0,"mobileY":1039,"type":"","enabled":true,"worldX":540.0,"worldY":881.1,"worldZ":0.0,"idCamera":25536,"parentId":26468,"transformId":26388}
+
+03/11/2020 10:28:32: response received: {"name":"Text","id":24882,"x":540,"y":1834,"z":0,"mobileY":86,"type":"","enabled":true,"worldX":540.0009,"worldY":1834.5,"worldZ":0.0,"idCamera":25536,"parentId":26468,"transformId":26154}
+
+03/11/2020 10:28:32: response received: {"name":"Resume","id":24976,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":25536,"parentId":26468,"transformId":26238}
+
+03/11/2020 10:28:32: response received: {"name":"Resume","id":24976,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":25536,"parentId":26468,"transformId":26238}
+
+03/11/2020 10:28:32: response received: {"name":"pauseButton","id":25030,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":25536,"parentId":26308,"transformId":26288}
+
+03/11/2020 10:28:32: response received: {"name":"PlayerPivot","id":25298,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":25536,"parentId":0,"transformId":25502}
+
+03/11/2020 10:28:32: response received: Ok
+Scene Loaded
+03/11/2020 10:28:32: response received: Scene Loaded
+
+03/11/2020 10:28:32: response received: Ok
+Scene Loaded
+03/11/2020 10:28:32: response received: Scene Loaded
+
+03/11/2020 10:28:33: response received: {"name":"StartButton","id":35892,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":36280,"parentId":37030,"transformId":37148}
+
+03/11/2020 10:28:33: response received: {"name":"StartButton","id":35892,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":36280,"parentId":37030,"transformId":37148}
+
+03/11/2020 10:28:33: response received: {"name":"pauseButton","id":35774,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":36280,"parentId":37052,"transformId":37032}
+
+03/11/2020 10:28:33: response received: {"name":"pauseButton","id":35774,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":false,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":36280,"parentId":37052,"transformId":37032}
+
+03/11/2020 10:28:33: response received: {"name":"Exit","id":35876,"x":540,"y":881,"z":0,"mobileY":1039,"type":"","enabled":true,"worldX":540.0,"worldY":881.1,"worldZ":0.0,"idCamera":36280,"parentId":37212,"transformId":37132}
+
+03/11/2020 10:28:33: response received: {"name":"Exit","id":35876,"x":-3362,"y":-5353,"z":-230,"mobileY":7273,"type":"","enabled":true,"worldX":540.0,"worldY":907.4,"worldZ":0.0,"idCamera":36280,"parentId":37212,"transformId":37132}
+
+03/11/2020 10:28:33: response received: {"name":"StoreButton","id":35802,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":36280,"parentId":37030,"transformId":37062}
+
+03/11/2020 10:28:33: response received: {"name":"OpenLeaderboard","id":35906,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":36280,"parentId":37030,"transformId":37160}
+
+03/11/2020 10:28:33: response received: {"name":"SettingButton","id":35818,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":36280,"parentId":37030,"transformId":37078}
+
+03/11/2020 10:28:33: response received: {"name":"MissionButton","id":35660,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":36280,"parentId":37030,"transformId":36928}
+
+03/11/2020 10:28:33: response received: {"name":"StartButton","id":35892,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":36280,"parentId":37030,"transformId":37148}
+
+03/11/2020 10:28:33: response received: {"name":"CharName","id":35686,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":36280,"parentId":37210,"transformId":36954}
+
+03/11/2020 10:28:33: response received: {"name":"ThemeZone","id":35976,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":36280,"parentId":37030,"transformId":37228}
+
+03/11/2020 10:28:33: response received: Ok
+Scene Loaded
+03/11/2020 10:28:33: response received: Scene Loaded
+
+03/11/2020 10:28:34: response received: Ok
+Scene Loaded
+03/11/2020 10:28:34: response received: Scene Loaded
+
+03/11/2020 10:28:34: response received: {"name":"StartButton","id":46636,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":47024,"parentId":47774,"transformId":47892}
+
+03/11/2020 10:28:34: response received: {"name":"StartButton","id":46636,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":47024,"parentId":47774,"transformId":47892}
+
+03/11/2020 10:28:34: response received: {"name":"pauseButton","id":46518,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":47024,"parentId":47796,"transformId":47776}
+
+03/11/2020 10:28:34: response received: {"name":"PlayerPivot","id":46786,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":47024,"parentId":0,"transformId":46990}
+
+03/11/2020 10:28:34: response received: Ok
+Scene Loaded
+03/11/2020 10:28:35: response received: Scene Loaded
+
+03/11/2020 10:28:35: response received: Ok
+Scene Loaded
+03/11/2020 10:28:35: response received: Scene Loaded
+
+03/11/2020 10:28:35: response received: {"name":"StartButton","id":57380,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":57768,"parentId":58518,"transformId":58636}
+
+03/11/2020 10:28:35: response received: {"name":"StartButton","id":57380,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":57768,"parentId":58518,"transformId":58636}
+
+03/11/2020 10:28:35: response received: error:notFound
+
+03/11/2020 10:28:36: response received: error:notFound
+
+03/11/2020 10:28:37: response received: error:notFound
+
+03/11/2020 10:28:37: response received: error:notFound
+
+03/11/2020 10:28:38: response received: error:notFound
+
+03/11/2020 10:28:38: response received: error:notFound
+
+03/11/2020 10:28:39: response received: error:notFound
+
+03/11/2020 10:28:40: response received: error:notFound
+
+03/11/2020 10:28:40: response received: error:notFound
+
+03/11/2020 10:28:41: response received: error:notFound
+
+03/11/2020 10:28:41: response received: error:notFound
+
+03/11/2020 10:28:42: response received: error:notFound
+
+03/11/2020 10:28:43: response received: error:notFound
+
+03/11/2020 10:28:43: response received: error:notFound
+
+03/11/2020 10:28:44: response received: error:notFound
+
+03/11/2020 10:28:44: response received: error:notFound
+
+03/11/2020 10:28:45: response received: error:notFound
+
+03/11/2020 10:28:46: response received: error:notFound
+
+03/11/2020 10:28:46: response received: error:notFound
+
+03/11/2020 10:28:47: response received: error:notFound
+
+03/11/2020 10:28:47: response received: error:notFound
+
+03/11/2020 10:28:48: response received: error:notFound
+
+03/11/2020 10:28:49: response received: error:notFound
+
+03/11/2020 10:28:49: response received: {"name":"GameOver","id":57338,"x":540,"y":297,"z":0,"mobileY":1623,"type":"","enabled":true,"worldX":540.0,"worldY":297.0,"worldZ":0.0,"idCamera":57768,"parentId":58714,"transformId":58596}
+
+03/11/2020 10:28:49: response received: {"name":"Premium Button","id":57472,"x":540,"y":768,"z":0,"mobileY":1152,"type":"","enabled":true,"worldX":540.0,"worldY":768.0,"worldZ":0.0,"idCamera":57768,"parentId":58546,"transformId":58724}
+
+03/11/2020 10:28:49: response received: {"name":"GameOver","id":57338,"x":540,"y":297,"z":0,"mobileY":1623,"type":"","enabled":true,"worldX":540.0,"worldY":297.0,"worldZ":0.0,"idCamera":57768,"parentId":58714,"transformId":58596}
+
+03/11/2020 10:28:49: response received: {"name":"Premium Button","id":57472,"x":540,"y":768,"z":0,"mobileY":1152,"type":"","enabled":true,"worldX":540.0,"worldY":768.0,"worldZ":0.0,"idCamera":57768,"parentId":58546,"transformId":58724}
+
+03/11/2020 10:28:49: response received: Ok
+Scene Loaded
+03/11/2020 10:28:49: response received: Scene Loaded
+
+03/11/2020 10:28:51: response received: 1.5.3
+
+03/11/2020 10:28:51: response received: Ok
+
+03/11/2020 10:28:51: response received: Ok
+Scene Loaded
+03/11/2020 10:28:51: response received: Scene Loaded
+
+03/11/2020 10:28:51: response received: {"name":"StoreButton","id":68034,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":68512,"parentId":69262,"transformId":69294}
+
+03/11/2020 10:28:51: response received: {"name":"OpenLeaderboard","id":68138,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":68512,"parentId":69262,"transformId":69392}
+
+03/11/2020 10:28:51: response received: {"name":"SettingButton","id":68050,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":68512,"parentId":69262,"transformId":69310}
+
+03/11/2020 10:28:51: response received: {"name":"MissionButton","id":67892,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":68512,"parentId":69262,"transformId":69160}
+
+03/11/2020 10:28:51: response received: {"name":"StartButton","id":68124,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":68512,"parentId":69262,"transformId":69380}
+
+03/11/2020 10:28:51: response received: {"name":"CharName","id":67918,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":68512,"parentId":69442,"transformId":69186}
+
+03/11/2020 10:28:51: response received: {"name":"ThemeZone","id":68208,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":68512,"parentId":69262,"transformId":69460}
+
+03/11/2020 10:28:52: response received: 1.5.3
+
+03/11/2020 10:28:52: response received: Ok
+
+03/11/2020 10:28:52: response received: Ok
+Scene Loaded
+03/11/2020 10:28:53: response received: Scene Loaded
+
+03/11/2020 10:28:53: response received: {"name":"StartButton","id":72146,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":72578,"parentId":72916,"transformId":72918}
+
+03/11/2020 10:28:53: response received: {"name":"StartButton","id":72146,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":72578,"parentId":72916,"transformId":72918}
+
+03/11/2020 10:28:53: response received: {"name":"StoreButton","id":73196,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":73674,"parentId":74424,"transformId":74456}
+
+03/11/2020 10:28:53: response received: {"name":"OpenLeaderboard","id":73300,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":73674,"parentId":74424,"transformId":74554}
+
+03/11/2020 10:28:53: response received: {"name":"SettingButton","id":73212,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":73674,"parentId":74424,"transformId":74472}
+
+03/11/2020 10:28:53: response received: {"name":"MissionButton","id":73054,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":73674,"parentId":74424,"transformId":74322}
+
+03/11/2020 10:28:54: response received: {"name":"StartButton","id":73286,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":73674,"parentId":74424,"transformId":74542}
+
+03/11/2020 10:28:54: response received: {"name":"CharName","id":73080,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":73674,"parentId":74604,"transformId":74348}
+
+03/11/2020 10:28:54: response received: {"name":"ThemeZone","id":73370,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":73674,"parentId":74424,"transformId":74622}
+
+03/11/2020 10:28:54: response received: Ok
+Scene Loaded
+03/11/2020 10:28:54: response received: Scene Loaded
+
+03/11/2020 10:28:54: response received: {"name":"StartButton","id":77308,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":77740,"parentId":78078,"transformId":78080}
+
+03/11/2020 10:28:54: response received: {"name":"StartText","id":77312,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":77740,"parentId":78080,"transformId":78082}
+
+03/11/2020 10:28:54: response received: {"name":"LogoImage","id":76942,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":77740,"parentId":78078,"transformId":78076}
+
+03/11/2020 10:28:54: response received: {"name":"UnityURLButton","id":76940,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":77740,"parentId":78078,"transformId":78074}
