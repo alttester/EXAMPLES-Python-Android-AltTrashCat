@@ -1,4 +1,4 @@
-# AltUnityTester Examples Tests for AltTrashCat in Python
+# AltUnityTester Examples Tests for Android Build with Python Tests
 
 This repository shows a few Python tests that use the page object model and AltUnityTester to test the Unity endless runner sample:
 https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runner-sample-game-87901
