@@ -1,4 +1,5 @@
 from pages.base_page import BasePage
+from altunityrunner import By 
 
 class PauseOverlayPage(BasePage):
     def __init__(self, altdriver):
@@ -6,15 +7,15 @@ class PauseOverlayPage(BasePage):
 
     @property
     def resume_button(self):
-        return self.altdriver.wait_for_element('Game/PauseMenu/Resume', timeout=2)
+        return self.altdriver.wait_for_object(By.NAME, 'Game/PauseMenu/Resume', timeout=2)
 
     @property
     def main_menu_button(self):
-        return self.altdriver.wait_for_element('Game/PauseMenu/Exit', timeout=2)
+        return self.altdriver.wait_for_object(By.NAME, 'Game/PauseMenu/Exit', timeout=2)
 
     @property
     def title(self):
-        return self.altdriver.wait_for_element('Game/PauseMenu/Text', timeout=2)
+        return self.altdriver.wait_for_object(By.NAME, 'Game/PauseMenu/Text', timeout=2)
 
     def is_displayed(self):
         if self.resume_button and self.main_menu_button and self.title:

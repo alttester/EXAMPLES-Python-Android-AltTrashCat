@@ -1,4 +1,5 @@
 from pages.base_page import BasePage
+from altunityrunner import By 
 
 class GamePlayPage(BasePage):
 
@@ -7,11 +8,11 @@ class GamePlayPage(BasePage):
 
     @property
     def pause_button(self):
-        return self.altdriver.wait_for_element('Game/WholeUI/pauseButton', timeout=2)
+        return self.altdriver.wait_for_object(By.NAME, '/UICamera/Game/WholeUI/pauseButton', timeout=2)
     
     @property
     def character(self):
-        return self.altdriver.wait_for_element('PlayerPivot', timeout=2)
+        return self.altdriver.wait_for_object(By.NAME, 'PlayerPivot', timeout=2)
 
     def is_displayed(self):
         if self.pause_button and self.character:
@@ -24,14 +25,14 @@ class GamePlayPage(BasePage):
         return int(self.character.call_component_method("CharacterInputController", "get_currentLife", ""))
 
     def avoid_obstacles(self, number_of_obstacles=10):
-        character = self.altdriver.find_element("PlayerPivot")
+        character = self.altdriver.find_object(By.NAME, "/PlayerPivot")
         #set character to be invincible for this method
         # character.call_component_method("CharacterInputController", "CheatInvincible", "true")
         moved_left = False
         moved_right = False
 
         for i in range(0, number_of_obstacles):
-            all_obstacles_unsorted = self.altdriver.find_elements_where_name_contains("Obstacle")
+            all_obstacles_unsorted = self.altdriver.find_objects_which_contains(By.NAME, "Obstacle")
             all_obstacles = sorted(all_obstacles_unsorted, key=lambda k: float(k.worldZ))
             obstacles = []
             for o in all_obstacles:
@@ -42,8 +43,8 @@ class GamePlayPage(BasePage):
             print("NEXT: " + obstacles[1].name + ", z:" + obstacles[1].worldZ + ", x:" + obstacles[1].worldX)
             
             while(float(obstacle.worldZ) - float(character.worldZ) > 5):
-                obstacle = self.altdriver.find_element("id(" + obstacle.id + ")")
-                character = self.altdriver.find_element("PlayerPivot")
+                obstacle = self.altdriver.find_object(By.ID, obstacle.id)
+                character = self.altdriver.find_object(By.NAME, "PlayerPivot")
 
             if "Barrier" in obstacle.name or "Rat" in obstacle.name:
                 character.call_component_method("CharacterInputController", "Jump", "")
@@ -67,8 +68,8 @@ class GamePlayPage(BasePage):
                     character.call_component_method("CharacterInputController", "ChangeLane", "1")
                     moved_right = True
             while (float(character.worldZ) < float(obstacle.worldZ) and float(character.worldX) < 99):
-                obstacle = self.altdriver.find_element("id(" + obstacle.id + ")")
-                character = self.altdriver.find_element("PlayerPivot")
+                obstacle = self.altdriver.find_object(By.ID, obstacle.id)
+                character = self.altdriver.find_object(By.NAME, "PlayerPivot")
             if moved_left:
                 character.call_component_method("CharacterInputController", "ChangeLane", "1")
                 moved_left = False
