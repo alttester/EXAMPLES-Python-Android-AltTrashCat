@@ -1,4 +1,4 @@
-from altunityrunner import By
+from alttester import By
 
 from .base_page import BasePage
 
@@ -27,7 +27,7 @@ class GamePlayPage(BasePage):
         self.pause_button.tap()
 
     def get_current_life(self):
-        return int(self.character.call_component_method('CharacterInputController', 'get_currentLife', assembly=''))
+        return int(self.character.get_component_property('CharacterInputController', 'currentLife', 'Assembly-CSharp'))
 
     def jump(self):
         self.character.call_component_method('CharacterInputController', 'Jump', assembly='')

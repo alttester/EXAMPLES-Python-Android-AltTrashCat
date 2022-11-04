@@ -2,7 +2,7 @@ echo "==> Uninstalling the app from the device..."
 adb uninstall com.Altom.TrashCat
 
 echo "==> Installing the app on the device..."
-adb install app/alttrashcat_latest.apk
+adb install app/application.apk
 
 echo "==> Setup ADB port forwarding..."
 adb forward --remove-all

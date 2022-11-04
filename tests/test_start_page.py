@@ -1,9 +1,9 @@
-from .utils import AltUnityTestCase
+from .utils import AltTestCase
 from .pages.start_page import StartPage
 from .pages.main_menu_page import MainMenuPage
 
 
-class TestStartPage(AltUnityTestCase):
+class TestStartPage(AltTestCase):
 
     def setUp(self):
         self.main_menu_page = MainMenuPage(self.altdriver)

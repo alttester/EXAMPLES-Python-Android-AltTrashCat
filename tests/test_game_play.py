@@ -1,11 +1,11 @@
-from .utils import AltUnityTestCase
+from .utils import AltTestCase
 from .pages.main_menu_page import MainMenuPage
 from .pages.game_play_page import GamePlayPage
 from .pages.pause_overlay_page import PauseOverlayPage
 from .pages.get_another_chance_page import GetAnotherChancePage
 
 
-class TestGamePlay(AltUnityTestCase):
+class TestGamePlay(AltTestCase):
 
     def setUp(self):
         self.main_menu_page = MainMenuPage(self.altdriver)

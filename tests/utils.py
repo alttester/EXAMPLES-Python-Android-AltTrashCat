@@ -1,13 +1,13 @@
 import unittest
 
-from altunityrunner import AltUnityDriver
+from alttester import AltDriver
 
 
-class AltUnityTestCase(unittest.TestCase):
+class AltTestCase(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
-        cls.altdriver = AltUnityDriver(enable_logging=False)
+        cls.altdriver = AltDriver(enable_logging=False)
 
     @classmethod
     def tearDownClass(cls):

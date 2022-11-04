@@ -1,6 +1,6 @@
 import time
 
-from altunityrunner import By
+from alttester import By
 
 from .base_page import BasePage
 

@@ -1,6 +1,6 @@
-# AltUnityTester Examples Tests for Android Build with Python Tests
+# AltTester Examples Tests for Android Build with Python Tests
 
-This repository shows a few Python tests that use the page object model and AltUnityTester to test the Unity endless runner sample:
+This repository shows a few Python tests that use the page object model and AltTester to test the Unity endless runner sample:
 https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runner-sample-game-87901
 
 ## Prerequisites
@@ -13,7 +13,9 @@ https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runne
 
 > **Note**: The tests are meant to be run on an Android phone.
 
-The apk is provided in this repository, under the `app/` folder.
+Create a folder `app` under project
+
+The app is provided at https://altom.com/app/uploads/AltTester/TrashCat/TrashCatAndroid.zip and needs to be included unzipped under the app/ folder.
 
 To start the tests, depending of your OS run:
 
