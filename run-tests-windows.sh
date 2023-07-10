@@ -5,8 +5,8 @@ echo "==> Installing the app on the device..."
 adb install app/TrashCat.apk
 
 echo "==> Setup ADB port forwarding..."
-adb forward --remove-all
-adb forward tcp:13000 tcp:13000
+adb reverse --remove-all
+adb reverse tcp:13000 tcp:13000
 
 echo "==> Start the app..."
 adb shell am start -n com.Altom.TrashCat/com.unity3d.player.UnityPlayerActivity
@@ -24,5 +24,8 @@ echo "==> Run the tests..."
 
 echo "==> Stop the app..."
 adb shell am force-stop com.Altom.TrashCat
+
+echo "remove all forwarded ports"
+adb reverse --remove-all
 
 echo "==> ALL DONE!"
