@@ -17,7 +17,7 @@ https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runne
 2. The tests are meant to be run on an Adroid device. Create a folder `app` under project. The app is provided at https://alttester.com/app/uploads/AltTester/TrashCat/TrashCatAndroid2_0_1.zip and needs to be included unzipped under the `app/` folder.
 3. To start the tests, depending on your OS run:
     - `./run_tests_mac.sh on MacOS/Linux`
-    - `./run_tests_windows.sh on Windows`
+    - `./run_tests_windows.sh` on Windows
 
 This script will:
 
