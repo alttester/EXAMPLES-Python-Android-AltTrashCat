@@ -1,12 +1,11 @@
 from alttester import By
-
-from .base_page import BasePage
+from pages.base_page import BasePage
 
 
 class StartPage(BasePage):
 
     def __init__(self, altdriver):
-        super().__init__(altdriver)
+        BasePage.__init__(self, altdriver)
 
     def load(self):
         self.altdriver.load_scene('Start')
