@@ -1,6 +1,6 @@
 from .utils import AltTestCase
-from .pages.start_page import StartPage
-from .pages.main_menu_page import MainMenuPage
+from pages.start_page import StartPage
+from pages.main_menu_page import MainMenuPage
 
 
 class TestStartPage(AltTestCase):

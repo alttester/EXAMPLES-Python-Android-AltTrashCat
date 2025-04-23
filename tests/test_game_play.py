@@ -1,8 +1,8 @@
 from .utils import AltTestCase
-from .pages.main_menu_page import MainMenuPage
-from .pages.game_play_page import GamePlayPage
-from .pages.pause_overlay_page import PauseOverlayPage
-from .pages.get_another_chance_page import GetAnotherChancePage
+from pages.main_menu_page import MainMenuPage
+from pages.game_play_page import GamePlayPage
+from pages.pause_overlay_page import PauseOverlayPage
+from pages.get_another_chance_page import GetAnotherChancePage
 
 
 class TestGamePlay(AltTestCase):

@@ -1,5 +1,5 @@
 from .utils import AltTestCase
-from .pages.main_menu_page import MainMenuPage
+from pages.main_menu_page import MainMenuPage
 
 
 class TestMainMenuPage(AltTestCase):
